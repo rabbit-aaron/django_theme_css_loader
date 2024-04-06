@@ -36,4 +36,4 @@ class HighlightJSWidget(widgets.Widget):
 
 ## Demo
 
-![Demo GIF](demo.gif)
+![Demo GIF](https://github.com/rabbit-aaron/django_theme_css_loader/blob/main/demo.gif?raw=true)

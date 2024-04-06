@@ -23,7 +23,7 @@ class ThemeLoaderJS:
     dark_css: str
     media: str = "all"
     src: str = dataclasses.field(
-        default_factory=lambda: "django_theme_css_loader/js/loader{}.js".format(
+        default_factory=lambda: "django_theme_css_loader/loader{}.js".format(
             "" if settings.DEBUG else ".min"
         )
     )
