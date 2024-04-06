@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "django-theme-css-loader"
 version = "0.1.0"
-description = ""
-authors = ["Aaron <rabbit.aaron@gmail.com>"]
+description = "Load different CSS in Django admin site when switching between dark/light mode"
+authors = ["rabbit-aaron <rabbit.aaron@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
